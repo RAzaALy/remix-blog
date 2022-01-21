@@ -8,10 +8,8 @@ This is a continuation that focuses on setting up Authentication using Firebase 
 
 Note: You can follow portions of this for a basic firebase authentication for any Remix app using Firebase without having complete the first tutorial. 
 
-### Code and Demo
-You can view the sourcode for this tutorial on GitHub [here](https://github.com/cbenjamin2009/remix-blog-firebase-auth)
-
-You can view a live Demo on Vercel [here](https://remix-blog-firebase-auth.vercel.app/)
+### Demo
+You can view a live Demo on Vercel [here](https://remix-blog-one.vercel.app/)
 
 ### Requirements (Free):
 - Vercel Account
